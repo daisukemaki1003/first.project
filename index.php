@@ -1,4 +1,4 @@
-<? php
+<?php
 
 
 define( 'FILENAME', './messages.txt');
